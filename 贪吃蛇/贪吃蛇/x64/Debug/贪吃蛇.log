@@ -1,4 +1,0 @@
-﻿  贪吃蛇.c
-C:\Users\Fanger\Desktop\c\c1\贪吃蛇\贪吃蛇\贪吃蛇.c(225,57): warning C4474: printf: 格式字符串中传递的参数太多
-C:\Users\Fanger\Desktop\c\c1\贪吃蛇\贪吃蛇\贪吃蛇.c(225,57): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
-  贪吃蛇.vcxproj -> C:\Users\Fanger\Desktop\c\c1\贪吃蛇\x64\Debug\贪吃蛇.exe
